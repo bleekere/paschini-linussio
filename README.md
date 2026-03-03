@@ -1,6 +1,6 @@
 # Tutorial on Automated Collation with CollateX 
 
-[![License](https://img.shields.io/github/license/bleekere/paschini_linussio)](https://github.com/bleekere/paschini_linussio/blob/main/LICENSE.md)
+[![License](https://img.shields.io/github/license/bleekere/paschini-linussio)](https://github.com/bleekere/paschini-linussio/blob/main/LICENSE.md)
 
 This repository contains Jupyter notebooks to (learn to) work with the automated text collation tool [CollateX](https://collatex.net/).
 
@@ -10,7 +10,7 @@ The notebooks are based on a course for the London Rare Book School (LRBS) cours
 
 
 ### Let's get started!
-In order to work with the notebook, click on this button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bleekere/digital-editing-course-uppsala/HEAD)
+In order to work with the notebook, click on this button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bleekere/paschini-linussio/HEAD)
 
 This will automatically launch a Binder, which is an online environment in which the software CollateX and the required dependencies are already installed. It also contains a folder with data (samples from _To The Lighthouse_ by Virginia Woolf) which are used in the third Tutorial. That means that you do *not* have to install anything to work with CollateX. 
 
