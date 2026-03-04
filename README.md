@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/github/license/bleekere/paschini-linussio)](https://github.com/bleekere/paschini-linussio/blob/main/LICENSE.md)
 
 ### What?
-This repository contains Jupyter notebooks to (learn to) work with the automated text comparison tool [CollateX](https://collatex.net/). CollateX allows scholars to compare versions of a literary work and gain insight into textual variation.
+This repository contains Jupyter notebooks to (learn to) work with the automated text comparison tool [CollateX](https://collatex.net/). CollateX is a digital humanities tool with which scholars can compare versions of a literary work and gain insight into textual variation.
 
 ### Why?
 These notebooks are intended for students from the Paschini Linussio college from Tolmezzo, Udine, who visited the Huygens Institute in Amsterdam on March 6, 2026. They are a first introduction to working with Digital Humanities tools for textual scholarship. 
